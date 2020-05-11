@@ -1,0 +1,253 @@
+{
+    "Mockdata": [{
+            "imageUrl": "https://hmp.me/codv",
+            "SV_MX_FIRSTNAME": "Aurelien",
+            "SV_MX_LASTNAME": "A",
+            "SV_DISPLAYNAME": "Aurelien A",
+            "SV_Z_UID": "Aur A",
+            "SV_MX_WORKPLACE_BUILDING": "3",
+            "SV_MX_WORKPLACE_FLOOR": "8",
+            "SV_MX_WORKPLACE_ROOM": "52"
+        },
+        {
+            "imageUrl": "https://hmp.me/codu",
+            "SV_MX_FIRSTNAME": "Beatrice",
+            "SV_MX_LASTNAME": "B",
+            "SV_DISPLAYNAME": "Beatrice B",
+            "SV_Z_UID": "Bea B",
+            "SV_MX_WORKPLACE_BUILDING": "11",
+            "SV_MX_WORKPLACE_FLOOR": "15",
+            "SV_MX_WORKPLACE_ROOM": "27"
+        },
+        {
+            "imageUrl": "https://hmp.me/codv",
+            "SV_MX_FIRSTNAME": "Christophe",
+            "SV_MX_LASTNAME": "C",
+            "SV_DISPLAYNAME": "Christophe C",
+            "SV_Z_UID": "Chr C",
+            "SV_MX_WORKPLACE_BUILDING": "21",
+            "SV_MX_WORKPLACE_FLOOR": "1",
+            "SV_MX_WORKPLACE_ROOM": "23"
+        },
+        {
+            "imageUrl": "https://hmp.me/codw",
+            "SV_MX_FIRSTNAME": "Damien",
+            "SV_MX_LASTNAME": "D",
+            "SV_DISPLAYNAME": "Damien D",
+            "SV_Z_UID": "Dam D",
+            "SV_MX_WORKPLACE_BUILDING": "6",
+            "SV_MX_WORKPLACE_FLOOR": "7",
+            "SV_MX_WORKPLACE_ROOM": "8"
+        },
+        {
+            "imageUrl": "https://hmp.me/codx",
+            "SV_MX_FIRSTNAME": "Emilie",
+            "SV_MX_LASTNAME": "E",
+            "SV_DISPLAYNAME": "Emile E",
+            "SV_Z_UID": "Emi E",
+            "SV_MX_WORKPLACE_BUILDING": "10",
+            "SV_MX_WORKPLACE_FLOOR": "3",
+            "SV_MX_WORKPLACE_ROOM": "7"
+        },
+        {
+            "imageUrl": "https://hmp.me/codu",
+            "SV_MX_FIRSTNAME": "Fanny",
+            "SV_MX_LASTNAME": "F",
+            "SV_DISPLAYNAME": "Fanny F",
+            "SV_Z_UID": "Fan F",
+            "SV_MX_WORKPLACE_BUILDING": "2",
+            "SV_MX_WORKPLACE_FLOOR": "6",
+            "SV_MX_WORKPLACE_ROOM": "11"
+        },
+        {
+            "imageUrl": "https://hmp.me/codx",
+            "SV_MX_FIRSTNAME": "Gerard",
+            "SV_MX_LASTNAME": "G",
+            "SV_DISPLAYNAME": "Gerard G",
+            "SV_Z_UID": "Ger G",
+            "SV_MX_WORKPLACE_BUILDING": "7",
+            "SV_MX_WORKPLACE_FLOOR": "8",
+            "SV_MX_WORKPLACE_ROOM": "9"
+        },
+        {
+            "imageUrl": "https://hmp.me/codv",
+            "SV_MX_FIRSTNAME": "Hugo",
+            "SV_MX_LASTNAME": "H",
+            "SV_DISPLAYNAME": "Hugo H",
+            "SV_Z_UID": "Hug H",
+            "SV_MX_WORKPLACE_BUILDING": "1",
+            "SV_MX_WORKPLACE_FLOOR": "2",
+            "SV_MX_WORKPLACE_ROOM": "3"
+        },
+        {
+            "imageUrl": "https://hmp.me/codu",
+            "SV_MX_FIRSTNAME": "Irene",
+            "SV_MX_LASTNAME": "I",
+            "SV_DISPLAYNAME": "Irene I",
+            "SV_Z_UID": "Ire I",
+            "SV_MX_WORKPLACE_BUILDING": "12",
+            "SV_MX_WORKPLACE_FLOOR": "13",
+            "SV_MX_WORKPLACE_ROOM": "14"
+        },
+        {
+            "imageUrl": "https://hmp.me/codx",
+            "SV_MX_FIRSTNAME": "Justine",
+            "SV_MX_LASTNAME": "J",
+            "SV_DISPLAYNAME": "Justine J",
+            "SV_Z_UID": "Jus J",
+            "SV_MX_WORKPLACE_BUILDING": "4",
+            "SV_MX_WORKPLACE_FLOOR": "5",
+            "SV_MX_WORKPLACE_ROOM": "6"
+        },
+        {
+            "imageUrl": "https://hmp.me/codu",
+            "SV_MX_FIRSTNAME": "Karine",
+            "SV_MX_LASTNAME": "K",
+            "SV_DISPLAYNAME": "Karine K",
+            "SV_Z_UID": "Kar K",
+            "SV_MX_WORKPLACE_BUILDING": "5",
+            "SV_MX_WORKPLACE_FLOOR": "3",
+            "SV_MX_WORKPLACE_ROOM": "8"
+        },
+        {
+            "imageUrl": "https://hmp.me/codx",
+            "SV_MX_FIRSTNAME": "Laurie",
+            "SV_MX_LASTNAME": "L",
+            "SV_DISPLAYNAME": "Laurie L",
+            "SV_Z_UID": "Lau L",
+            "SV_MX_WORKPLACE_BUILDING": "2",
+            "SV_MX_WORKPLACE_FLOOR": "4",
+            "SV_MX_WORKPLACE_ROOM": "6"
+        },
+        {
+            "imageUrl": "https://hmp.me/codw",
+            "SV_MX_FIRSTNAME": "Maurice",
+            "SV_MX_LASTNAME": "M",
+            "SV_DISPLAYNAME": "Maurice M",
+            "SV_Z_UID": "Mau M",
+            "SV_MX_WORKPLACE_BUILDING": "12",
+            "SV_MX_WORKPLACE_FLOOR": "14",
+            "SV_MX_WORKPLACE_ROOM": "16"
+        },
+        {
+            "imageUrl": "https://hmp.me/codu",
+            "SV_MX_FIRSTNAME": "Noelle",
+            "SV_MX_LASTNAME": "N",
+            "SV_DISPLAYNAME": "Noelle N",
+            "SV_Z_UID": "Noe N",
+            "SV_MX_WORKPLACE_BUILDING": "5",
+            "SV_MX_WORKPLACE_FLOOR": "10",
+            "SV_MX_WORKPLACE_ROOM": "15"
+        },
+        {
+            "imageUrl": "https://hmp.me/codx",
+            "SV_MX_FIRSTNAME": "Ophelie",
+            "SV_MX_LASTNAME": "O",
+            "SV_DISPLAYNAME": "Ophelie O",
+            "SV_Z_UID": "Oph O",
+            "SV_MX_WORKPLACE_BUILDING": "2",
+            "SV_MX_WORKPLACE_FLOOR": "6",
+            "SV_MX_WORKPLACE_ROOM": "9"
+        },
+        {
+            "imageUrl": "https://hmp.me/codv",
+            "SV_MX_FIRSTNAME": "Pascal",
+            "SV_MX_LASTNAME": "P",
+            "SV_DISPLAYNAME": "Pascal P",
+            "SV_Z_UID": "Pas P",
+            "SV_MX_WORKPLACE_BUILDING": "9",
+            "SV_MX_WORKPLACE_FLOOR": "6",
+            "SV_MX_WORKPLACE_ROOM": "3"
+        },
+        {
+            "imageUrl": "https://hmp.me/codu",
+            "SV_MX_FIRSTNAME": "Quentin",
+            "SV_MX_LASTNAME": "Q",
+            "SV_DISPLAYNAME": "Quentin Q",
+            "SV_Z_UID": "Que Q",
+            "SV_MX_WORKPLACE_BUILDING": "6",
+            "SV_MX_WORKPLACE_FLOOR": "9",
+            "SV_MX_WORKPLACE_ROOM": "3"
+        },
+        {
+            "imageUrl": "https://hmp.me/codw",
+            "SV_MX_FIRSTNAME": "Rosalie",
+            "SV_MX_LASTNAME": "R",
+            "SV_DISPLAYNAME": "Rosalie R",
+            "SV_Z_UID": "Ros R",
+            "SV_MX_WORKPLACE_BUILDING": "11",
+            "SV_MX_WORKPLACE_FLOOR": "22",
+            "SV_MX_WORKPLACE_ROOM": "33"
+        },
+        {
+            "imageUrl": "https://hmp.me/codx",
+            "SV_MX_FIRSTNAME": "Simon",
+            "SV_MX_LASTNAME": "S",
+            "SV_DISPLAYNAME": "Simon S",
+            "SV_Z_UID": "Sim S",
+            "SV_MX_WORKPLACE_BUILDING": "11",
+            "SV_MX_WORKPLACE_FLOOR": "22",
+            "SV_MX_WORKPLACE_ROOM": "33"
+        },
+        {
+            "imageUrl": "https://hmp.me/codv",
+            "SV_MX_FIRSTNAME": "Taric",
+            "SV_MX_LASTNAME": "T",
+            "SV_DISPLAYNAME": "Taric T",
+            "SV_Z_UID": "Tar T",
+            "SV_MX_WORKPLACE_BUILDING": "21",
+            "SV_MX_WORKPLACE_FLOOR": "12",
+            "SV_MX_WORKPLACE_ROOM": "43"
+        },
+        {
+            "imageUrl": "https://hmp.me/codw",
+            "SV_MX_FIRSTNAME": "Ulric",
+            "SV_MX_LASTNAME": "U",
+            "SV_DISPLAYNAME": "Ulric U",
+            "SV_Z_UID": "Ulr U",
+            "SV_MX_WORKPLACE_BUILDING": "23",
+            "SV_MX_WORKPLACE_FLOOR": "24",
+            "SV_MX_WORKPLACE_ROOM": "25"
+        },
+        {
+            "imageUrl": "https://hmp.me/codv",
+            "SV_MX_FIRSTNAME": "Walter",
+            "SV_MX_LASTNAME": "W",
+            "SV_DISPLAYNAME": "Walter W",
+            "SV_Z_UID": "Wal W",
+            "SV_MX_WORKPLACE_BUILDING": "6",
+            "SV_MX_WORKPLACE_FLOOR": "7",
+            "SV_MX_WORKPLACE_ROOM": "8"
+        },
+        {
+            "imageUrl": "https://hmp.me/codw",
+            "SV_MX_FIRSTNAME": "Xavier",
+            "SV_MX_LASTNAME": "X",
+            "SV_DISPLAYNAME": "Xavier X",
+            "SV_Z_UID": "Xav X",
+            "SV_MX_WORKPLACE_BUILDING": "9",
+            "SV_MX_WORKPLACE_FLOOR": "10",
+            "SV_MX_WORKPLACE_ROOM": "26"
+        },
+        {
+            "imageUrl": "https://hmp.me/codv",
+            "SV_MX_FIRSTNAME": "Yvan",
+            "SV_MX_LASTNAME": "Y",
+            "SV_DISPLAYNAME": "Yvan Y",
+            "SV_Z_UID": "Yva Y",
+            "SV_MX_WORKPLACE_BUILDING": "6",
+            "SV_MX_WORKPLACE_FLOOR": "9",
+            "SV_MX_WORKPLACE_ROOM": "7"
+        },
+        {
+            "imageUrl": "https://hmp.me/codu",
+            "SV_MX_FIRSTNAME": "Zoe",
+            "SV_MX_LASTNAME": "Z",
+            "SV_DISPLAYNAME": "Zoe Z",
+            "SV_Z_UID": "Zoe Z",
+            "SV_MX_WORKPLACE_BUILDING": "6",
+            "SV_MX_WORKPLACE_FLOOR": "9",
+            "SV_MX_WORKPLACE_ROOM": "7"
+        }
+    ]
+}
